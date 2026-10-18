@@ -1,0 +1,17 @@
+﻿- Hacer un programa que pida dos valores uno un valor de corriente y otro un valor
+  de tension
+  y calcule usando la ley de Ohm la resistencia.
+
+
+
+- Hacer un programa que calcule el area de un triangulo dada la longuitud de la base y la 
+  altura.
+
+
+
+- Hacer un programa que pida un numero entero N y calcule el mínimo número de bits
+ necesario
+  para representar ese número N en binario. Solo queremos representar 
+ números enteros positivos.
+
+
