@@ -1,6 +1,7 @@
 /*Realizar un programa que a partir de los 3 puntos extremos de un triángulo (P 1, P 2, P 3) calcule el ´area
 del mismo de acuerdo con la siguiente fórmulas
-área = √T (T − S1)(T − S2)(T − S3), T = (S1 + S2 + S3) /2
+área = √T (T − S1)(T − S2)(T − S3), T = (S1 + S2 + S3) /2 
+//EJEMPLO entrada 0 0 4 0 0 3 salida = 6.000000
 
 donde S1, S2, S3 son las longitudes de los lados del triángulo.*/
 #include <stdio.h>
