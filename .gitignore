@@ -1,1 +1,6 @@
 *.exe
+
+# Ignorar todos los archivos en la raíz del proyecto que no tengan extensión
+/*
+!/*.*
+!/*/
