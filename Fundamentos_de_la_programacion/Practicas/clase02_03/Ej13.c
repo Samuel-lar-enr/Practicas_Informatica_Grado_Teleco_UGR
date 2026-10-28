@@ -18,10 +18,10 @@ int main(){
     int Contador = 0;
     int v = 0 ;
     for (i=1; i<=3; i++) {
-    while (Contador < 3) {
-    v = v+1;
-    Contador = Contador + 1;
-    }
+        Contador = Contador + 1;
+        while (Contador < 3) {
+            v = v+1;
+        }     
     }
     printf("%d%d\n",v,Contador);
     //33

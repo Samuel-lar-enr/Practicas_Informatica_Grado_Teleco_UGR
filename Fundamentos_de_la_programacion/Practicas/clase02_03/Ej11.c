@@ -4,7 +4,7 @@ an = (−1)n(n2 − 1)/2n*/
 #include <stdio.h>
 #include <math.h>
 int main(){
-    float n;
+    int n;
     float suma = 0;
     for(n=1; n<=100; n++){
         suma+= pow(-1,n)*(pow(n,2)-1)/(2*n);
